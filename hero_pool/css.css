@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@500&display=swap');
+body{
+    font-family: 'Alumni Sans', sans-serif;
+}
+#liste_heros{
+    display: none;
+}
+#liste_heros .confort{
+    background-color: #c6ecc6;
+}
+#liste_heros .jouable{
+    background-color: #ffe6b3;
+}
+#liste_heros .nonJ{
+    background-color: #ffb3b3;
+}
+#liste_heros .pick{
+    padding: 15px 20px;
+    min-width: 200px;
+}
+#liste_heros .colbg{
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding: 0;
+}
+#liste_heros .colbg span{
+    background-color: rgba(255, 255, 255, .5);
+}
+#liste_heros .rappel{
+    padding: 0;
+    padding-top: 15px;
+    font-size: 1.5em;
+}
+#liste_heros td{
+    padding: 15px 20px 15px 0;
+    text-align: center;
+}
+#liste_heros .cl{
+    cursor: pointer;
+}
+#liste_heros td input{
+    padding: 15px;
+}
+#liste_heros .titre{
+    font-size: 2em;
+}
+#liste_heros .hero{
+    text-align: left;
+}
+
+noscript{
+    font-size: 4rem;
+    color: #821;
+}

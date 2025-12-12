@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@500&display=swap');
+body{
+    font-family: 'Alumni Sans', sans-serif;
+    font-size: 1.5rem;
+}
+
+td{
+    min-width: 200px;
+}
+#reponse{
+    color: #382;
+    font-weight: bold;
+    font-size: 1rem;
+}
+.hidden{
+    display: none;
+}
+.erreur{
+    color: #832;
+}

@@ -1,0 +1,1661 @@
+[Categorie]Basics Items
+[type] Consumables
+-Item-
+60_011.webp
+0
+Observer Ward
+-Item-
+60_058.webp
+50
+Clarity
+-Item-
+60_182.webp
+50
+Sentry Ward
+-Item-
+60_039.webp
+50
+Smoke of Deceit
+-Item-
+60.webp
+65
+Enchanted Mango
+-Item-
+60_007.webp
+70
+Faerie Fire
+-Item-
+60_207.webp
+75
+Tome of Knowledge
+-Item-
+60_006.webp
+80
+Dust of Appearance
+-Item-
+60_147.webp
+90
+Tango
+-Item-
+60_197.webp
+100
+Town Portal Scroll
+-Item-
+60_140.webp
+110
+Healing Salve
+-Item-
+60_107.webp
+675
+Bottle
+-Item-
+60_143.webp
+1400
+Aghanim's Shard
+[type] Attributes
+-Item-
+60_213.webp
+50
+Iron Branch
+-Item-
+60_034.webp
+140
+Gauntlets of Strength
+-Item-
+60_259.webp
+140
+Mantle of Intelligence
+-Item-
+60_065.webp
+140
+Slippers of Agility
+-Item-
+60_074.webp
+155
+Circlet
+-Item-
+60_103.webp
+450
+Band of Elvenskin
+-Item-
+60_110.webp
+450
+Belt of Strength
+-Item-
+60_136.webp
+450
+Crown
+-Item-
+60_050.webp
+450
+Robe of the Magi
+-Item-
+60_196.webp
+1000
+Blade of Alacrity
+-Item-
+60_072.webp
+1000
+Ogre Axe
+-Item-
+60_030.webp
+1000
+Staff of Wizardry
+[type] Equipment
+-Item-
+60_100.webp
+130
+Quelling Blade
+-Item-
+60_287.webp
+175
+Ring of Protection
+-Item-
+60_093.webp
+225
+Infused Raindrops
+-Item-
+60_264.webp
+275
+Orb of Venom
+-Item-
+60_090.webp
+300
+Blight Stone
+-Item-
+60_054.webp
+450
+Blades of Attack
+-Item-
+60_125.webp
+450
+Gloves of Haste
+-Item-
+60_275.webp
+550
+Chainmail
+-Item-
+60_167.webp
+875
+Quarterstaff
+-Item-
+60_250.webp
+950
+Helm of Iron Will
+-Item-
+60_117.webp
+1000
+Blitz Knuckles
+-Item-
+60_171.webp
+1000
+Broadsword
+-Item-
+60_057.webp
+1100
+Javelin
+-Item-
+60_068.webp
+1350
+Claymore
+-Item-
+60_291.webp
+1600
+Mithril Hammer
+[type] Miscellaneous
+-Item-
+60_121.webp
+175
+Ring of Regen
+-Item-
+60_209.webp
+175
+Sage's Mask
+-Item-
+60_285.webp
+200
+Magic Stick
+-Item-
+60_204.webp
+250
+Fluffy Hat
+-Item-
+60_098.webp
+250
+Wind Lace
+-Item-
+60_210.webp
+500
+Boots of Speed
+-Item-
+60_053.webp
+500
+Cloak
+-Item-
+60_277.webp
+700
+Voodoo Mask
+-Item-
+60_133.webp
+900
+Gem of True Sight
+-Item-
+60_231.webp
+900
+Morbid Mask
+-Item-
+60_120.webp
+1000
+Shadow Amulet
+-Item-
+60_252.webp
+1500
+Ghost Scepter
+-Item-
+60_010.webp
+2250
+Blink Dagger
+[type] Secret
+-Item-
+60_274.webp
+800
+Energy Booster
+-Item-
+60_230.webp
+825
+Ring of Health
+-Item-
+60_084.webp
+825
+Void Stone
+-Item-
+60_175.webp
+1000
+Vitality Booster
+-Item-
+60_260.webp
+1200
+Point Booster
+-Item-
+60_116.webp
+1300
+Talisman of Evasion
+-Item-
+60_159.webp
+1400
+Platemail
+-Item-
+60_083.webp
+2000
+Hyperstone
+-Item-
+60_033.webp
+2050
+Ultimate Orb
+-Item-
+60_282.webp
+2200
+Demon Edge
+-Item-
+60_223.webp
+2800
+Eaglesong
+-Item-
+60_115.webp
+2800
+Mystic Staff
+-Item-
+60_218.webp
+2800
+Reaver
+-Item-
+60_088.webp
+3750
+Sacred Relic
+[Categorie]Upgraded Items
+[type] Accessories
+-Item-
+60_249.webp
+450
+Magic Wand
+-Item-
+60_122.webp
+505
+Bracer
+-Item-
+60_202.webp
+505
+Null Talisman
+-Item-
+60_245.webp
+505
+Wraith Band
+-Item-
+60_028.webp
+680
+Soul Ring
+-Item-
+60_109.webp
+925
+Orb of Corrosion
+-Item-
+60_129.webp
+1100
+Falcon Blade
+-Item-
+60_038.webp
+1400
+Power Treads
+-Item-
+60_279.webp
+1500
+Oblivion Staff
+-Item-
+60_181.webp
+1500
+Phase Boots
+-Item-
+60_215.webp
+1650
+Perseverance
+-Item-
+60_273.webp
+1775
+Mask of Madness
+-Item-
+60_027.webp
+2200
+Hand of Midas
+-Item-
+60_276.webp
+2350
+Helm of the Dominator
+-Item-
+60_096.webp
+2500
+Boots of Travel
+-Item-
+60_012.webp
+4000
+Moon Shard
+-Item-
+60_118.webp
+6275
+Helm of the Overlord
+[type] Support
+-Item-
+60_036.webp
+425
+Buckler
+-Item-
+60_041.webp
+425
+Headdress
+-Item-
+60_253.webp
+425
+Ring of Basilius
+-Item-
+60_180.webp
+840
+Urn of Shadows
+-Item-
+60_201.webp
+925
+Tranquil Boots
+-Item-
+60_063.webp
+1025
+Medallion of Courage
+-Item-
+60_267.webp
+1300
+Arcane Boots
+-Item-
+60_059.webp
+1700
+Drum of Endurance
+-Item-
+60_172.webp
+1875
+Mekansm
+-Item-
+60_227.webp
+2400
+Holy Locket
+-Item-
+60_206.webp
+2700
+Vladmir's Offering
+-Item-
+60_166.webp
+2840
+Spirit Vessel
+-Item-
+60_174.webp
+3475
+Pipe of Insight
+-Item-
+60_177.webp
+5200
+Guardian Greaves
+[type] Magical
+-Item-
+60_164.webp
+1525
+Veil of Discord
+-Item-
+60_160.webp
+1950
+Glimmer Cape
+-Item-
+60_051.webp
+2200
+Force Staff
+-Item-
+60_173.webp
+2275
+Aether Lens
+-Item-
+60_248.webp
+2600
+Witch Blade
+-Item-
+60_004.webp
+2625
+Solar Crest
+-Item-
+60_094.webp
+2700
+Dagon
+-Item-
+60_241.webp
+2725
+Eul's Scepter of Divinity
+-Item-
+60_155.webp
+2750
+Rod of Atos
+-Item-
+60_258.webp
+3475
+Orchid Malevolence
+-Item-
+60_137.webp
+4200
+Aghanim's Scepter
+-Item-
+60_025.webp
+5000
+Refresher Orb
+-Item-
+60_163.webp
+5275
+Octarine Core
+-Item-
+60_217.webp
+5675
+Scythe of Vyse
+-Item-
+60_138.webp
+5800
+Aghanim's Blessing
+-Item-
+60_247.webp
+6150
+Gleipnir
+-Item-
+60_078.webp
+6825
+Wind Waker
+[type] Armor
+-Item-
+60_127.webp
+1500
+Hood of Defiance
+-Item-
+60_141.webp
+1825
+Vanguard
+-Item-
+60_198.webp
+2125
+Blade Mail
+-Item-
+60_130.webp
+3000
+Aeon Disk
+-Item-
+60_266.webp
+3000
+Soul Booster
+-Item-
+60_256.webp
+3300
+Eternal Shroud
+-Item-
+60_157.webp
+3650
+Crimson Guard
+-Item-
+60_194.webp
+3850
+Lotus Orb
+-Item-
+60_016.webp
+4050
+Black King Bar
+-Item-
+60_289.webp
+4550
+Hurricane Pike
+-Item-
+60_268.webp
+4600
+Linken's Sphere
+-Item-
+60_095.webp
+4600
+Manta Style
+-Item-
+60_153.webp
+4850
+Shiva's Guard
+-Item-
+60_087.webp
+5100
+Heart of Tarrasque
+-Item-
+60_165.webp
+5125
+Assault Cuirass
+-Item-
+60_019.webp
+5750
+Bloodstone
+[type] Weapons
+-Item-
+60_176.webp
+1950
+Crystalys
+-Item-
+60_131.webp
+2350
+Meteor Hammer
+-Item-
+60_008.webp
+2475
+Armlet of Mordiggian
+-Item-
+60_005.webp
+2950
+Skull Basher
+-Item-
+60_272.webp
+3000
+Shadow Blade
+-Item-
+60_191.webp
+3500
+Desolator
+-Item-
+60_082.webp
+4130
+Battle Fury
+-Item-
+60_156.webp
+4300
+Ethereal Blade
+-Item-
+60_021.webp
+4725
+Nullifier
+-Item-
+60_056.webp
+4975
+Butterfly
+-Item-
+60_126.webp
+4975
+Monkey King Bar
+-Item-
+60_203.webp
+5150
+Daedalus
+-Item-
+60_214.webp
+5150
+Radiance
+-Item-
+60_032.webp
+5450
+Silver Edge
+-Item-
+60_067.webp
+6000
+Divine Rapier
+-Item-
+60_111.webp
+6275
+Bloodthorn
+-Item-
+60_169.webp
+6325
+Abyssal Blade
+[type] Artifacts
+-Item-
+60_029.webp
+1900
+Dragon Lance
+-Item-
+60_079.webp
+2050
+Kaya
+-Item-
+60_184.webp
+2050
+Sange
+-Item-
+60_151.webp
+2050
+Yasha
+-Item-
+60_185.webp
+2400
+Mage Slayer
+-Item-
+60_152.webp
+2500
+Echo Sabre
+-Item-
+60_062.webp
+2700
+Maelstrom
+-Item-
+60_239.webp
+3150
+Diffusal Blade
+-Item-
+60_069.webp
+3550
+Heaven's Halberd
+-Item-
+60_221.webp
+4100
+Kaya and Sange
+-Item-
+60_003.webp
+4100
+Sange and Yasha
+-Item-
+60_246.webp
+4100
+Yasha and Kaya
+-Item-
+60_283.webp
+5050
+Satanic
+-Item-
+60_015.webp
+5300
+Eye of Skadi
+-Item-
+60_113.webp
+5600
+Mjollnir
+-Item-
+60_294.webp
+6800
+Arcane Blink
+-Item-
+60_192.webp
+6800
+Overwhelming Blink
+-Item-
+60_037.webp
+6800
+Swift Blink
+[Categorie]Neutral Items
+[type]Tier 1
+-Item-
+60_101.webp
+undefine
+Arcane Ring
+-Item-
+60_162.webp
+undefine
+Broom Handle
+-Item-
+60_091.webp
+undefine
+Chipped Vest
+-Item-
+60_020.webp
+undefine
+Fairy's Trinket
+-Item-
+60_134.webp
+undefine
+Keen Optic
+-Item-
+60_081.webp
+undefine
+Ocean Heart
+-Item-
+60_055.webp
+undefine
+Pig Pole
+-Item-
+60_193.webp
+undefine
+Possessed Mask
+-Item-
+60_235.webp
+undefine
+Trusty Shovel
+-Item-
+60_102.webp
+undefine
+Tumbler's Toy
+[type]Tier 2
+-Item-
+60_278.webp
+undefine
+Brigand's Blade
+-Item-
+60_018.webp
+undefine
+Bullwhip
+-Item-
+60_112.webp
+undefine
+Dragon Scale
+-Item-
+60_240.webp
+undefine
+Essence Ring
+-Item-
+60_073.webp
+undefine
+Fae Grenade
+-Item-
+60_145.webp
+undefine
+Grove Bow
+-Item-
+60_132.webp
+undefine
+Nether Shawl
+-Item-
+60_170.webp
+undefine
+Philosopher's Stone
+-Item-
+60_080.webp
+undefine
+Pupil's Gift
+-Item-
+60_154.webp
+undefine
+Quicksilver Amulet
+-Item-
+60_208.webp
+undefine
+Ring of Aquila
+-Item-
+60_114.webp
+undefine
+Vambrace
+[type]Tier 3
+-Item-
+60_205.webp
+undefine
+Blast Rig
+-Item-
+60_222.webp
+undefine
+Ceremonial Robe
+-Item-
+60_290.webp
+undefine
+Cloak of Flames
+-Item-
+60_199.webp
+undefine
+Elven Tunic
+-Item-
+60_071.webp
+undefine
+Enchanted Quiver
+-Item-
+60_237.webp
+undefine
+Mind Breaker
+-Item-
+60_188.webp
+undefine
+Paladin Sword
+-Item-
+60_040.webp
+undefine
+Psychic Headband
+-Item-
+60_179.webp
+undefine
+Quickening Charm
+-Item-
+60_183.webp
+undefine
+Spider Legs
+-Item-
+60_219.webp
+undefine
+Titan Sliver
+[type]Tier 4
+-Item-
+60_119.webp
+undefine
+Ascetic's Cap
+-Item-
+60_225.webp
+undefine
+Flicker
+-Item-
+60_009.webp
+undefine
+Ninja Gear
+-Item-
+60_257.webp
+undefine
+Penta-Edged Sword
+-Item-
+60_281.webp
+undefine
+Spell Prism
+-Item-
+60_186.webp
+undefine
+Stormcrafter
+-Item-
+60_251.webp
+undefine
+Telescope
+-Item-
+60_086.webp
+undefine
+The Leveller
+-Item-
+60_075.webp
+undefine
+Timeless Relic
+-Item-
+60_014.webp
+undefine
+Trickster Cloak
+-Item-
+60_022.webp
+undefine
+Witchbane
+[type]Tier 5
+-Item-
+60_104.webp
+undefine
+Apex
+-Item-
+60_031.webp
+undefine
+Arcanist's Armor
+-Item-
+60_261.webp
+undefine
+Book of Shadows
+-Item-
+60_228.webp
+undefine
+Book of the Dead
+-Item-
+60_099.webp
+undefine
+Ex Machina
+-Item-
+60_284.webp
+undefine
+Fallen Sky
+-Item-
+60_043.webp
+undefine
+Force Boots
+-Item-
+60_144.webp
+undefine
+Giant's Ring
+-Item-
+60_244.webp
+undefine
+Mirror Shield
+-Item-
+60_061.webp
+undefine
+Pirate Hat
+-Item-
+60_280.webp
+undefine
+Seer Stone
+-Item-
+60_108.webp
+undefine
+Stygian Desolator
+[type]Retired
+-Item-
+60_066.webp
+undefine
+Ballista
+-Item-
+60_097.webp
+undefine
+Clumsy Net
+-Item-
+60_089.webp
+undefine
+Craggy Coat
+-Item-
+60_286.webp
+undefine
+Elixir
+-Item-
+60_189.webp
+undefine
+Faded Broach
+-Item-
+60_042.webp
+undefine
+Fusion Rune
+-Item-
+60_060.webp
+undefine
+Greater Faerie Fire
+-Item-
+60_077.webp
+undefine
+Havoc Hammer
+-Item-
+60_233.webp
+undefine
+Helm of the Undying
+-Item-
+60_288.webp
+undefine
+Illusionist's Cape
+-Item-
+60_216.webp
+undefine
+Imp Claw
+-Item-
+60_161.webp
+undefine
+Iron Talon
+-Item-
+60_026.webp
+undefine
+Ironwood Tree
+-Item-
+60_168.webp
+undefine
+Magic Lamp
+-Item-
+60_263.webp
+undefine
+Mango Tree
+-Item-
+60_226.webp
+undefine
+Minotaur Horn
+-Item-
+60_124.webp
+undefine
+Orb of Destruction
+-Item-
+60_178.webp
+undefine
+Phoenix Ash
+-Item-
+60_150.webp
+undefine
+Poor Man's Shield
+-Item-
+60_158.webp
+undefine
+Prince's Knife
+-Item-
+60_270.webp
+undefine
+Repair Kit
+-Item-
+60_265.webp
+undefine
+Royal Jelly
+-Item-
+60_269.webp
+undefine
+Third Eye
+-Item-
+60_035.webp
+undefine
+Tome of Aghanim
+-Item-
+60_052.webp
+undefine
+Vampire Fangs
+-Item-
+60_234.webp
+undefine
+Witless Shako
+-Item-
+60_128.webp
+undefine
+Woodland Striders
+-Item-
+60_070.webp
+6150
+Trident
+[type]Unreleased
+-Item-
+60_106.webp
+undefine
+Ancient Perseverance
+-Item-
+60_187.webp
+undefine
+Assassin's Contract
+-Item-
+60_211.webp
+undefine
+Assassin's Dagger
+-Item-
+60_149.webp
+undefine
+Dimensional Doorway
+-Item-
+60_190.webp
+undefine
+Gladiator Helm
+-Item-
+60_236.webp
+undefine
+Gloves of Travel
+-Item-
+60_254.webp
+undefine
+Greater Mango
+-Item-
+60_123.webp
+undefine
+Horizon
+-Item-
+60_255.webp
+undefine
+Icarus Wings
+-Item-
+60_139.webp
+undefine
+Light Robes
+-Item-
+60_238.webp
+undefine
+Mechanical Arm
+-Item-
+60_271.webp
+undefine
+Oakheart
+-Item-
+60_064.webp
+undefine
+Overflowing Elixir
+-Item-
+60_195.webp
+undefine
+Ring of Fortitude
+-Item-
+60_146.webp
+undefine
+Satchel
+-Item-
+60_212.webp
+undefine
+Shadow of Vengeance
+-Item-
+60_013.webp
+undefine
+Star Mace
+-Item-
+60_243.webp
+undefine
+Tree Processor
+-Item-
+60_262.webp
+undefine
+Venom Gland
+-Item-
+60_292.webp
+undefine
+Warhammer
+-Item-
+60_024.webp
+undefine
+Wizard Glass
+[Categorie]<a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Shop_Roshan_Icon.png/revision/latest?cb=20181126000634" class="image"><img alt="Shop Roshan Icon.png" src="Items%20-%20Dota%202%20Wiki_fichiers/24_003.webp" decoding="async" data-image-name="Shop Roshan Icon.png" data-image-key="Shop_Roshan_Icon.png" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Shop_Roshan_Icon.png/revision/latest/scale-to-width-down/24?cb=20181126000634" class=" lazyloaded" width="24" height="24"></a> Roshan Drop
+-Item-
+60_229.webp
+undefine
+Aegis of the Immortal
+-Item-
+60_293.webp
+undefine
+Aghanim's Blessing - Roshan
+-Item-
+60_242.webp
+undefine
+Aghanim's Shard - Roshan
+-Item-
+60_135.webp
+undefine
+Cheese
+-Item-
+60_200.webp
+undefine
+Refresher Shard
+[Categorie]Unreleased Items
+-Item-
+60_023.webp
+undefine
+Elusive Cloak
+-Item-
+60_023.webp
+undefine
+Orb of Revelations
+-Item-
+60_023.webp
+undefine
+Sorcerer's Staff
+[Categorie]Removed Items
+[type]Dota 2
+-Item-
+60_232.webp
+undefine
+Banana
+-Item-
+60_076.webp
+50
+Animal Courier
+-Item-
+60_017.webp
+150
+Flying Courier
+-Item-
+60_220.webp
+200
+Stout Shield
+-Item-
+60_085.webp
+650
+Ring of Tarrasque
+-Item-
+60_142.webp
+2050
+Necronomicon
+-Item-
+60_002.webp
+3850
+Diffusal Blade 2
+[type]DotA
+-Item-
+60_092.webp
+150
+Potion of Healing
+-Item-
+60_148.webp
+200
+Potion of Mana
+-Item-
+60_049.webp
+200
+Staff of Negation
+-Item-
+60_224.webp
+250
+Tome of Retraining
+-Item-
+60_105.webp
+275
+Vampiric Potion
+-Item-
+60_298.webp
+350
+Claws of Attack
+-Item-
+60_048.webp
+450
+Useless Item
+-Item-
+60_044.webp
+600
+Ancient Knowledge Stone
+-Item-
+60_295.webp
+750
+Crystal Eye
+-Item-
+60_296.webp
+750
+Spider Queen's Band
+-Item-
+60_045.webp
+875
+Bladeturn Necklace
+-Item-
+60_297.webp
+950
+Leather Tunic
+-Item-
+60_046.webp
+1000
+Wand of Silence
+-Item-
+60_047.webp
+1150
+Crystalline Sword
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1480
+Holy Armor
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1500
+Upgrader
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1700
+Generator
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1850
+Potent Gem
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1925
+Precision's Aim
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1950
+Doom Mantle
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2000
+Lavabuster
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2325
+Mithril Armor
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2350
+Speed Rake
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2600
+Shadow Plate
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2615
+Magi Booster
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2650
+Assassin's Blade
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2650
+Shedd's Cleaver
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2750
+Guardian Armor
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+3250
+Bloodfury
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+3575
+Demonic Blade
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+3665
+Vitra Booster
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+3900
+Wrath of God
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+5000
+Talisman of Spell Shield
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+5075
+Devil's Will
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+5400
+Razor's Edge
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+5425
+Elven Battlegear
+[Categorie]Event Items
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Greevil Taffy
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Clove Studded Ham
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Cocoa with Marshmallows
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Fruit-bit Cake
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Gift
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Greevil Blink Bone
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Greevil Chow
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Greevil Treat
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Greevil Whistle
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Kringle
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Snow Mushroom
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Speed Skates
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Wizard Cookie
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Xmas Stocking
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+90
+Greater Clarity
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+275
+Greater Salve
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2075
+Slippers of Halcyon
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+2450
+Arcane Boots II
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+90
+Greater Clarity
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+100
+Flinching Firecrackers
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+275
+Greater Salve
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1000
+Firework Mine
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+1500
+Scare the Beast
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+3650
+Force Boots
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+5725
+Crimson Guard
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+8375
+Desolator 2
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+9750
+Vermillion Robe
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+90
+Greater Clarity
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+275
+Greater Salve
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Book of Strength
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Book of Agility
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Book of Intelligence
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+10
+Creed of Omniscience
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+15
+Oblivion's Locket
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Orb of Passage
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+30
+Pelt of the Old Wolf
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+25
+Paw of Lucius
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+35
+Longclaw's Amulet
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+45
+Bogdugg's Cudgel
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+40
+Bogdugg's Baldric
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+50
+Bogdugg's Lucky Femur
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+65
+Sign of the Arachnid
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+75
+Unhallowed Icon
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+60
+Preserved Skull
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+90
+Treads of Ermacor
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+150
+Rhyzik's Eye
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+70
+Guardian Shell
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+80
+Watcher's Gaze
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+130
+Carapace of Qaldin
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+170
+The Caustic Finale
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+30
+Ogre Seal Totem
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+30
+Cloak of the Bear
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+35
+Winter's Embrace
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+40
+Ice Dragon Maw
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+45
+Precious Egg
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+35
+Ambient Sorcery
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+55
+Gravel Foot
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+60
+Craggy Coat
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+65
+Stonework Pendant
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+50
+Lifestone
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+75
+Amorphotic Shell
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+70
+Violet Blade
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+130
+Slippers of the Abyss
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+110
+Wand of the Brine
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+160
+Glimmerdark Shield
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+190
+Siltbreaker's Dredged Trident
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+300
+Pocket Campfire
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Prison Cell Key
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+750
+Gallaron's Gamble
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Book of Agility
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Book of Intelligence
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Book of Strength
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Health Potion
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+undefine
+Mana Potion
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+200
+Escape Potion
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+750
+Stick o' Dynamite
+[type]
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Chrome
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Dry
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Slime
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Oil
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Electric
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Potion
+-Item-
+yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D
+0
+River Vial: Blood
+[Categorie]Shops
+[type]Base Shop
+[type]Secret Shop
+[Categorie]Removed Shops
+[type]Side Lane Shop
+[Categorie]Other information
+Items - Dota 2 Wiki.html:3817:9

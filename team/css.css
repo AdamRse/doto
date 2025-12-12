@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans:wght@500&display=swap');
+body{
+    font-family: 'Alumni Sans', sans-serif;
+}
+#divPool{
+    font-size: 0;
+}
+#divPool .membre{
+    margin-bottom: 20px;
+}
+#divPool .membre .nom{
+    font-size: 2rem;
+    font-weight: bolder;
+    background-color: #000;
+    color: #ffd;
+    padding: 8px 0 5px 1%;
+}
+#divPool .membre .cPicks{
+    
+}
+#divPool .membre .cPicks .desc{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding: 20px 0 0 1%;
+}
+#divPool .membre .cPicks .cHero{
+    display: inline-block;
+    border: 1px solid #000;
+    text-align: center;
+    width: 109px;
+    overflow: hidden;
+}
+#divPool .membre .cPicks .cHero img{
+    width: 109px;
+}
+#divPool .membre .cPicks .cHero .nomHero{
+    font-size: 1rem;
+    border-top: 1px solid #000;
+}
+.confort{
+    background-color: #dfd;
+}
+.jouable{
+    background-color: #ffd;
+}
